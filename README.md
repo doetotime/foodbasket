@@ -1,2 +1,2 @@
 # foodbasket
-innovative solution to solve food insecurity issues (AGRIBRIDGE)
+Innovative solution to solve food insecurity issues (AGRIBRIDGE)
